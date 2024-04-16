@@ -1,0 +1,158 @@
+Copy and pasted from Terminal:
+
+************************************************
+
+ Enter Employee First Name: Connie
+
+ Enter Employee Last Name: Cobol
+
+ Enter Employee Tax State: MA
+
+ Enter Employee Clock Number: 98401
+
+ Enter Employee Hourly Wage Rate: 10.60
+
+ Enter Employee Hours Worked for the Week: 51.0
+
+
+ *** Entered Details are *** 
+
+ First Name: Connie
+ Last Name: Cobol
+ Tax State: MA
+ Clock Number: 98401
+ Wage Rate: 10.60
+ Hours: 51.00
+
+ *** Calculated Values are ***
+
+ Overtime Hours : 11.00
+ Gross Pay : $598.90
+ State Tax : $29.95
+ Federal Tax : $149.73
+ Net Pay : $419.23
+
+
+ Enter Employee First Name: Mary
+
+ Enter Employee Last Name: Apl
+
+ Enter Employee Tax State: NH
+
+ Enter Employee Clock Number: 526488
+
+ Enter Employee Hourly Wage Rate: 9.75
+
+ Enter Employee Hours Worked for the Week: 42.5
+
+
+ *** Entered Details are ***
+
+ First Name: Mary
+ Last Name: Apl
+ Tax State: NH
+ Clock Number: 526488
+ Wage Rate: 9.75
+ Hours: 42.50
+
+ *** Calculated Values are ***
+
+ Overtime Hours : 2.50
+ Gross Pay : $426.56
+ State Tax : $0.00
+ Federal Tax : $106.64
+ Net Pay : $319.92
+
+
+ Enter Employee First Name: Frank
+
+ Enter Employee Last Name: Fortran
+
+ Enter Employee Tax State: VT
+
+ Enter Employee Clock Number: 765349
+
+ Enter Employee Hourly Wage Rate: 10.50
+
+ Enter Employee Hours Worked for the Week: 37.0
+
+
+ *** Entered Details are ***
+
+ First Name: Frank
+ Last Name: Fortran
+ Tax State: VT
+ Clock Number: 765349
+ Wage Rate: 10.50
+ Hours: 37.00
+
+ *** Calculated Values are ***
+
+ Overtime Hours : 0.00
+ Gross Pay : $388.50
+ State Tax : $23.31
+ Federal Tax : $97.12
+ Net Pay : $268.07
+
+
+ Enter Employee First Name: Jeff
+
+ Enter Employee Last Name: Ada
+
+ Enter Employee Tax State: NY
+
+ Enter Employee Clock Number: 34645
+
+ Enter Employee Hourly Wage Rate: 12.25
+
+ Enter Employee Hours Worked for the Week: 45
+
+
+ *** Entered Details are ***
+
+ First Name: Jeff
+ Last Name: Ada
+ Tax State: NY
+ Clock Number: 34645
+ Wage Rate: 12.25
+ Hours: 45.00
+
+ *** Calculated Values are ***
+
+ Overtime Hours : 5.00
+ Gross Pay : $581.88
+ State Tax : $46.55
+ Federal Tax : $145.47
+ Net Pay : $389.86
+
+
+ Enter Employee First Name: Anton
+
+ Enter Employee Last Name: Pascal
+
+ Enter Employee Tax State: CA
+
+ Enter Employee Clock Number: 127615
+
+ Enter Employee Hourly Wage Rate: 8.35
+
+ Enter Employee Hours Worked for the Week: 40.0
+
+
+ *** Entered Details are ***
+
+ First Name: Anton
+ Last Name: Pascal
+ Tax State: CA
+ Clock Number: 127615
+ Wage Rate: 8.35
+ Hours: 40.00
+
+ *** Calculated Values are ***
+
+ Overtime Hours : 0.00
+ Gross Pay : $334.00
+ State Tax : $23.38
+ Federal Tax : $83.50
+ Net Pay : $227.12
+PS C:\Users\jackc> 
