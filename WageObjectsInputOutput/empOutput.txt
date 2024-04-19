@@ -1,0 +1,90 @@
+
+
+ *** Entered Details are *** 
+
+ First Name: Connie
+ Last Name: Cobol
+ Tax State: MA
+ Clock Number: 98401
+ Wage Rate: 10.6
+ Hours: 51
+
+ *** Calculated Values are *** 
+
+ Overtime Hours : 11
+ Gross Pay : $598.9
+ State Tax : $29.945
+ Fed Tax   : $149.725
+ Net Pay   : $419.23
+
+
+ *** Entered Details are *** 
+
+ First Name: Mary
+ Last Name: Apl
+ Tax State: NH
+ Clock Number: 526488
+ Wage Rate: 9.75
+ Hours: 42.5
+
+ *** Calculated Values are *** 
+
+ Overtime Hours : 2.5
+ Gross Pay : $426.562
+ State Tax : $0
+ Fed Tax   : $106.641
+ Net Pay   : $319.922
+
+
+ *** Entered Details are *** 
+
+ First Name: Frank
+ Last Name: Fortran
+ Tax State: VT
+ Clock Number: 765349
+ Wage Rate: 10.5
+ Hours: 37
+
+ *** Calculated Values are *** 
+
+ Overtime Hours : 0
+ Gross Pay : $388.5
+ State Tax : $23.31
+ Fed Tax   : $97.125
+ Net Pay   : $268.065
+
+
+ *** Entered Details are *** 
+
+ First Name: Jeff
+ Last Name: Ada
+ Tax State: NY
+ Clock Number: 34645
+ Wage Rate: 12.25
+ Hours: 45
+
+ *** Calculated Values are *** 
+
+ Overtime Hours : 5
+ Gross Pay : $581.875
+ State Tax : $46.55
+ Fed Tax   : $145.469
+ Net Pay   : $389.856
+
+
+ *** Entered Details are *** 
+
+ First Name: Anton
+ Last Name: Pascal
+ Tax State: CA
+ Clock Number: 127615
+ Wage Rate: 8.35
+ Hours: 40
+
+ *** Calculated Values are *** 
+
+ Overtime Hours : 0
+ Gross Pay : $334
+ State Tax : $23.38
+ Fed Tax   : $83.5
+ Net Pay   : $227.12
